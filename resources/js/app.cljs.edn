@@ -1,0 +1,2 @@
+{:require  [zelkova-architecture.app]
+ :init-fns [zelkova-architecture.app/init]}
